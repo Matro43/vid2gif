@@ -11,6 +11,7 @@ Lightweight CLI tool for converting videos to GIFs.
 ## Usage
 ```
 python vid2gif.py input.mp4 output.gif --fps 15 --width 600 --start 5 --duration 4
+python vid2gif.py folder_with_videos/
 ```
 
 ## License
